@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dazznell
-- 👀 I’m interested in User Experience Design, specifically in the healthcare and video games industry.
-- 🌱 I’m currently learning Frontend Development to suplement my design decisions when I'm creating new user interfaces.
+- 👀 I’m interested in User Experience Strategy and Design,Project Management, Content Management and Front-end Development.
+- 🌱 I'm a graduate from the DMIT program at NAIT.
 - 💞️ I’m looking to collaborate on UX/UI design projects! I'm also open to working on side projects and passion projects! 
 - 📫 How to reach me | dazznell.work@gmail.com
 
